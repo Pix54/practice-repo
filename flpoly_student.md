@@ -1,22 +1,22 @@
-## First Name Last Name
+## Joseph Underwood
 
-### Term Year 
+### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Mac 1147
 
-- Course 2
+- Intro to Python
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Foundations to academic success
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Programming and Game Design..
 
 - Thing 2
 
