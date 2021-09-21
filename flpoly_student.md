@@ -11,6 +11,8 @@
 | **SLS** | **1901** | _Foundations for Academic Success_   | 0       |
 
 
+![Picture of the repo](Desktop/DS_Course/RepoPic)
+
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
 - Mac 1147
