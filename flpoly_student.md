@@ -11,7 +11,7 @@
 | **SLS** | **1901** | _Foundations for Academic Success_   | 0       |
 
 
-![Picture of the repo](Desktop/DS_Course/RepoPic)
+![Picture of the repo](https://github.com/Pix54/practice-repo/blob/main/RepoNanoCapture.PNG?raw=true)
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
